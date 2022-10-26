@@ -1,3 +1,3 @@
 # Ruby
-Study for Ruby
+Study for Ruby.
 take my GEMS 
